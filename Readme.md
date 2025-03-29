@@ -66,7 +66,7 @@ All while simulating realistic human behaviors through natural mouse movements, 
    # API Keys
    # GROQ_API_KEY=your_groq_api_key
    OPENAI_API_KEY=your_google_api_key
-   
+
    # Browser settings
    BROWSER_HEADLESS=false  # Set to true for headless operation
    ```
@@ -80,15 +80,6 @@ All while simulating realistic human behaviors through natural mouse movements, 
    - "Go to amazon.com and search for wireless headphones under 1000 and buy it"
    - "Navigate to weather.com and check the forecast for New York"
 
-
-## 🎬 Video Demonstration
-
-See our AI Browser Agent in action through these demonstration videos:
-
-### Demo 1: Basic Web Navigation
-[![AI Browser Navigation Demo](https://img.youtube.com/vi/Xp3w5H4-pOw/0.jpg)](https://www.youtube.com/embed/Xp3w5H4-pOw "Click to Watch Demo")
-
-*Watch how the agent navigates to websites and extracts information.*
 
 ### Advanced Configuration
 
