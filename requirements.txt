@@ -1,0 +1,11 @@
+# Core libraries
+langchain>=0.0.267
+# langchain-groq>=0.1.0
+langchain-openai>=0.0.2
+playwright>=1.40.0
+
+# System utilities
+psutil>=5.9.0
+
+# Utilities
+python-dotenv>=1.0.0
