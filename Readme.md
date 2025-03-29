@@ -186,19 +186,3 @@ This runs the browser without a visible UI, suitable for automated tasks.
 ### Custom Prompting
 
 The agent uses a sophisticated prompt template defined in agent.py. Advanced users can modify this template to tune the agent's behavior for specific tasks.
-
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 👥 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## ⭐ Support This Project
-
-If you find this project useful, please consider giving it a star on GitHub! It helps make the project more visible and encourages continued development.
-
-[![GitHub stars](https://img.shields.io/github/stars/rkvalandas/browser_agent.svg?style=social&label=Star)](https://github.com/rkvalandas/browser_agent)
-
-*Your feedback and contributions are greatly appreciated!*
